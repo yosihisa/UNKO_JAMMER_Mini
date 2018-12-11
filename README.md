@@ -1,9 +1,8 @@
-# UNKO_JAMMER_Mini
-Unco Jama is a camera infrared　remote control. It can also handle washlets.  
+# UNKO_JAMMER_Mini  
+UNKO_JAMMER_Mini is a camera infrared　remote control. It can also handle washlets.  
 It is compatible with Nikon, Canon, Sony and LIXIL.  
 This repository is the source code of infrared remote control of the camera. (With washlette jack function)  
-Video is [here](https://twitter.com/n_yosihisa/status/977338885901508608).
----  
+Video is [here](https://twitter.com/n_yosihisa/status/977338885901508608).  
 
 # ウンコジャマー ミニとは
 ウンコジャマーはカメラ用赤外線リモコンです。ウォシュレットを操作することもできます。  
@@ -46,4 +45,3 @@ LEDの下にある白いボタンを押すとシャッターを切ることが�
 ## 作者
 よしひさ([@n_yosihisa](https://twitter.com/n_yosihisa))  
 てぽ丼([@teppodone](https://twitter.com/teppodone))  
-
