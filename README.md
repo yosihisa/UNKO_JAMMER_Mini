@@ -11,7 +11,7 @@ PENTAXは今後のアップデートで対応予定です。
 動画は[こちら](https://twitter.com/n_yosihisa/status/977338885901508608)です。
 
 ## 各部名称  
-(準備中)  
+![各部名称](https://github.com/yosihisa/UNKO_JAMMER_Mini/blob/master/figure.png)
 
 ## 使い方
 ### 準備 
